@@ -1,0 +1,19 @@
+{
+  "name": "wow-wowdog",
+  "version": "1.0.0",
+  "description": "caja misteriosa para perros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oswaldoarana11/wow-wowdog.git"
+  },
+  "author": "Vizsla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oswaldoarana11/wow-wowdog/issues"
+  },
+  "homepage": "https://github.com/oswaldoarana11/wow-wowdog#readme"
+}
